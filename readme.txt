@@ -6,3 +6,4 @@ Git learning test
 creat a new branch is quick
 git tracks changes of files
 conflict testasdfasdtestajdflkajsdfljalsdfjlkasndfl
+conflictdadfasdfsd
